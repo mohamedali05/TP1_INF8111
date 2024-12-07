@@ -11,8 +11,8 @@ Voici une description détaillée des fichiers:
 
 ### TP3_A24_PARTIE_4.ipynb
 
-- **Contenu :** Ce fichier inclut la dernière partie du travail pratique.
-- **Sorties originales :** Les sorties originales de la partie 4 sont maintenues dans ce fichier ainsi que les captures d'écran quant à la configuration du cluster.
+- **Contenu :** Ce fichier inclut la dernière partie du travail pratique. Les sorties originales de la partie 4 sont maintenues dans ce fichier ainsi que les captures d'écran quant à la configuration du cluster.
 
-## association_rules Product administered to patient of inappropriate age.pdf
+
+### association_rules Product administered to patient of inappropriate age.pdf
 - **Contenu :** Ce fichier inclut l'ensemble des règles d'associations pour le symptome "Product administered to patient of inappropriate age" (réponse à la dernière question)
