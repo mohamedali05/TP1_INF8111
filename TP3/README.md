@@ -1,13 +1,12 @@
 # README - TP3_A24
 
-
 ## Structure des fichiers
 
-Le projet est divisé en deux fichiers Jupyter Notebook principaux, qui contiennent les parties requises du TP3_A24. Voici une description détaillée des fichiers:
+Voici une description détaillée des fichiers:
 
 ### TP3_A24_PARTIE_1_2_3.ipynb
 
-- **Contenu :** Ce fichier contient les trois premières parties du travail pratique.
+- **Contenu :** Ce fichier contient les trois premières parties du travail pratique ainsi que les captures d'écran pour la partie 4.
 
 
 ### TP3_A24_PARTIE_4.ipynb
