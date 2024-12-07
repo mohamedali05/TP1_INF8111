@@ -4,7 +4,7 @@
 
 Voici une description détaillée des fichiers:
 
-### TP3_A24_PARTIE_1_2_3.ipynb
+### TP3_A24.ipynb
 
 - **Contenu :** Ce fichier contient les trois premières parties du travail pratique ainsi que les captures d'écran pour la partie 4.
 
